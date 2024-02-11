@@ -1319,7 +1319,7 @@
                 "ModelImport": "IFC",
                 "BuildingName":"Psychiactriche Kilinik München",
                 "numFloors": 4,                            
-                "status": "ok" 
+                "Status": "ok" 
             },
             "geometry": {
                 "type": "LineString",
@@ -1612,8 +1612,8 @@
                 "ModelImport": "IFC",
                 "BuildingName": "LMU Klinikum",
                 "numFloors": 4,
-                "Sill level":0.35,                            
-                "status": "ok"
+                "Silllevel":0.35,                            
+                "Status": "ok"
             },
             "geometry": {
                 "type": "LineString",
